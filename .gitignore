@@ -1,6 +1,5 @@
 release/*.exe
 debug/*.exe
-src/malibucoind
 .*.swp
 *.*~*
 *.bak
@@ -17,8 +16,8 @@ src/malibucoind
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-malibucoin-qt
-MalibuCoin-Qt.app
+RedDragonCoin-qt
+RedDragonCoin-Qt.app
 
 # Qt creator
 *.pro.user

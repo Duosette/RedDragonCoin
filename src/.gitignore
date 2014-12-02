@@ -12,16 +12,4 @@ src/reddragoncoind
 *.Debug
 *.Release
 
-# Compilation and Qt preprocessor part
-*.qm
-Makefile
-RedDragonCoin-Qt.app
-
-# Qt creator
-*.pro.user
-
-# Mac specific
-.DS_Store
-build
-
 !src/leveldb*/Makefile
