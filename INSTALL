@@ -1,0 +1,9 @@
+Building reddragoncoin
+
+See doc/readme-qt.rst for instructions on building reddragoncoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of reddragoncoin.
+
+See doc/build-*.txt for instructions on building reddragoncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of reddragoncoin.
