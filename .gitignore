@@ -25,5 +25,3 @@ RedDragonCoin-Qt.app
 # Mac specific
 .DS_Store
 build
-
-!src/leveldb*/Makefile
